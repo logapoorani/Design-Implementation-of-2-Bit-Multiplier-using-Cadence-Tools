@@ -1,4 +1,4 @@
-<img width="1471" height="884" alt="Screenshot 2025-11-20 211805" src="https://github.com/user-attachments/assets/a7eb3753-7ed7-4e90-bd53-47da818fd6cb" /># Ex No: 06 - Design & Implementation of 2-Bit Multiplier Using Cadence Virtuoso
+ Ex No: 06 - Design & Implementation of 2-Bit Multiplier Using Cadence Virtuoso
 
 ## Aim
 The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuoso** and verify its functionality through transient analysis simulation.
